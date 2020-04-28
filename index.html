@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Menu Toggle Icon</title>
+    <link rel="stylesheet" href="style.css">
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <!--function to humburger menu-->
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.toggle').click(function(){
+          $('.toggle').toggleClass('active')
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div class="toggle">
+      <span></span>
+    </div>
+  </body>
+</html>
