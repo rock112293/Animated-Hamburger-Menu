@@ -2,8 +2,8 @@ body
 {
   margin: 0;
   padding: 0;
-  background:lime
-
+   background: radial-gradient( circle farthest-corner at -0.6% 44.4%,  rgba(142,252,152,1) 0%, rgba(107,214,250,1) 90% ) no-repeat center fixed;     
+    background-size: cover;
 }
 .toggle
 {
@@ -11,24 +11,24 @@ body
   top: 45%;
   left: 50%;
   transform: translate(-50%,-50%);
-  width: 50px;
-  height: 50px;
-  background: #fff;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient( 109.6deg,  rgba(252,255,26,1) 34.9%, rgba(66,240,233,1) 82.5% );
   box-shadow: 0 5px 10px rgba(0,0,0,.5);
   border-radius: 2px;
 }
 .toggle span
 {
   position: absolute;
-  width: 34px;
-  height: 4px;
+  width: 25px;
+  height: 3px;
   background: #111;
   display: block;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
   box-shadow: 0 2px 2px rgba(0,0,0,.2);
-  border-radius: 2px;
+  border-radius: 1px;
   transition: .5s;
   transition-delay: .5s;
 }
@@ -40,10 +40,10 @@ body
   height: 100%;
   background: #111;
   display: block;
-  top: -10px;
+  top: -7px;
   left: 0;
   box-shadow: 0 2px 2px rgba(0,0,0,.2);
-  border-radius: 2px;
+  border-radius: 1px;
   transition-property: top , transform;
   transition-delay: 0.5s, 0s;
   transition-duration: 0.5s, 0.5s;
@@ -56,10 +56,10 @@ body
   height: 100%;
   background: #111;
   display: block;
-  top: 10px;
+  top: 7px;
   left: 0;
   box-shadow: 0 2px 2px rgba(0,0,0,.2);
-  border-radius: 2px;
+  border-radius: 1px;
   transition-property: top , transform;
   transition-delay: 0.5s,0s;
   transition-duration: 0.5s, 0.5s;
