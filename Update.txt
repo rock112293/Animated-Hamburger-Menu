@@ -1,8 +1,10 @@
 Project are submit within 24hrs.
 Title:Animated Hamburger Menu.
 Feature:Animated Menu Bars
-1.Version:1.0.0
-●Submit via upload.
+1.Version:1.0.1
+●Edit via Acode Editor.
 ●2 files.
-●html extension name.
-●css extension name.
+●css link name change.
+●check error.
+●resize to small feature.
+●add/change background.
