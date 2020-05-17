@@ -1,10 +1,12 @@
-Project are submit within 24hrs.
-Title:Animated Hamburger Menu.
-Feature:Animated Menu Bars
-1.Version:1.0.1
-●Edit via Acode Editor.
-●2 files.
-●css link name change.
-●check error.
-●resize to small feature.
-●add/change background.
+Repository are create and submit within 2 days.
+Title:Menu Toggle Icon.
+Feature:Animated Hamburger Menu
+1.Version:1.0.2
+●Edit via Acode Editor version 0.1.13.106
+●4 separated files
+●JQuery change to JavaScript.
+●Fix Error code.
+●Update Text.
+●Update Version.
+●Update html and add onClick function and id.
+●Update MIT license.
