@@ -2,8 +2,8 @@ body
 {
   margin: 0;
   padding: 0;
-   background: radial-gradient( circle farthest-corner at -0.6% 44.4%,  rgba(142,252,152,1) 0%, rgba(107,214,250,1) 90% ) no-repeat center fixed;     
-    background-size: cover;
+  background: #fff;/*radial-gradient( circle farthest-corner at -0.6% 44.4%,  rgba(142,252,152,1) 0%, rgba(107,214,250,1) 90% ) no-repeat center fixed;     
+    background-size: cover;*/
 }
 .toggle
 {
