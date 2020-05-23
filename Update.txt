@@ -10,3 +10,6 @@ Feature:Animated Hamburger Menu
 ●Update Version.
 ●Update html and add onClick function and id.
 ●Update MIT license.
+●Update Html add some comment.
+●Update Css add new circle border,black/white background toggle menu featured.
+●Update JavaScript add some comment.
